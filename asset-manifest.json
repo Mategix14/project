@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Mategix14/project.git/static/css/main.b6d52ad3.css",
-    "main.js": "/Mategix14/project.git/static/js/main.5f8d8257.js",
-    "static/media/like.jpg": "/Mategix14/project.git/static/media/like.225ba319243e89daa5dc.jpg",
-    "static/media/актуаль.jpg": "/Mategix14/project.git/static/media/актуаль.ffca355a7385e4752c47.jpg",
-    "static/media/цели.jpg": "/Mategix14/project.git/static/media/цели.e31a7961c46bfd39a25d.jpg",
-    "static/media/введение.jpg": "/Mategix14/project.git/static/media/введение.1c1e1b83625db6786549.jpg",
-    "static/media/ходраб.jpg": "/Mategix14/project.git/static/media/ходраб.306ac28d2724cee2ac58.jpg",
-    "static/media/ведение.jpg": "/Mategix14/project.git/static/media/ведение.70ae54f76006f57116f4.jpg",
-    "static/media/цель.jpg": "/Mategix14/project.git/static/media/цель.a523a981a5273ade8390.jpg",
-    "static/media/вывод.jpg": "/Mategix14/project.git/static/media/вывод.8acd5acd0cc8dd210f94.jpg",
-    "static/media/итог.jpg": "/Mategix14/project.git/static/media/итог.17c30a5c071f734192e2.jpg",
-    "static/media/актуальность.jpg": "/Mategix14/project.git/static/media/актуальность.0a75cb23d0c2efcf14bc.jpg",
-    "static/media/проект.jpg": "/Mategix14/project.git/static/media/проект.71fe0b9b35a645a03c51.jpg",
-    "static/media/ходработы.jpg": "/Mategix14/project.git/static/media/ходработы.558781c14a5f715359ec.jpg",
-    "index.html": "/Mategix14/project.git/index.html",
-    "main.b6d52ad3.css.map": "/Mategix14/project.git/static/css/main.b6d52ad3.css.map",
-    "main.5f8d8257.js.map": "/Mategix14/project.git/static/js/main.5f8d8257.js.map"
+    "main.css": "/Mategix14/project/static/css/main.8bd06394.css",
+    "main.js": "/Mategix14/project/static/js/main.5f8d8257.js",
+    "static/media/like.jpg": "/Mategix14/project/static/media/like.225ba319243e89daa5dc.jpg",
+    "static/media/актуаль.jpg": "/Mategix14/project/static/media/актуаль.ffca355a7385e4752c47.jpg",
+    "static/media/цели.jpg": "/Mategix14/project/static/media/цели.e31a7961c46bfd39a25d.jpg",
+    "static/media/введение.jpg": "/Mategix14/project/static/media/введение.1c1e1b83625db6786549.jpg",
+    "static/media/ходраб.jpg": "/Mategix14/project/static/media/ходраб.306ac28d2724cee2ac58.jpg",
+    "static/media/ведение.jpg": "/Mategix14/project/static/media/ведение.70ae54f76006f57116f4.jpg",
+    "static/media/цель.jpg": "/Mategix14/project/static/media/цель.a523a981a5273ade8390.jpg",
+    "static/media/вывод.jpg": "/Mategix14/project/static/media/вывод.8acd5acd0cc8dd210f94.jpg",
+    "static/media/итог.jpg": "/Mategix14/project/static/media/итог.17c30a5c071f734192e2.jpg",
+    "static/media/актуальность.jpg": "/Mategix14/project/static/media/актуальность.0a75cb23d0c2efcf14bc.jpg",
+    "static/media/проект.jpg": "/Mategix14/project/static/media/проект.71fe0b9b35a645a03c51.jpg",
+    "static/media/ходработы.jpg": "/Mategix14/project/static/media/ходработы.558781c14a5f715359ec.jpg",
+    "index.html": "/Mategix14/project/index.html",
+    "main.8bd06394.css.map": "/Mategix14/project/static/css/main.8bd06394.css.map",
+    "main.5f8d8257.js.map": "/Mategix14/project/static/js/main.5f8d8257.js.map"
   },
   "entrypoints": [
-    "static/css/main.b6d52ad3.css",
+    "static/css/main.8bd06394.css",
     "static/js/main.5f8d8257.js"
   ]
 }
