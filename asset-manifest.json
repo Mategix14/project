@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a235ab9d.css",
+    "main.js": "/static/js/main.5f8d8257.js",
+    "static/media/like.jpg": "/static/media/like.225ba319243e89daa5dc.jpg",
+    "static/media/актуаль.jpg": "/static/media/актуаль.ffca355a7385e4752c47.jpg",
+    "static/media/цели.jpg": "/static/media/цели.e31a7961c46bfd39a25d.jpg",
+    "static/media/введение.jpg": "/static/media/введение.1c1e1b83625db6786549.jpg",
+    "static/media/ходраб.jpg": "/static/media/ходраб.306ac28d2724cee2ac58.jpg",
+    "static/media/ведение.jpg": "/static/media/ведение.70ae54f76006f57116f4.jpg",
+    "static/media/цель.jpg": "/static/media/цель.a523a981a5273ade8390.jpg",
+    "static/media/вывод.jpg": "/static/media/вывод.8acd5acd0cc8dd210f94.jpg",
+    "static/media/итог.jpg": "/static/media/итог.17c30a5c071f734192e2.jpg",
+    "static/media/актуальность.jpg": "/static/media/актуальность.0a75cb23d0c2efcf14bc.jpg",
+    "static/media/проект.jpg": "/static/media/проект.71fe0b9b35a645a03c51.jpg",
+    "static/media/ходработы.jpg": "/static/media/ходработы.558781c14a5f715359ec.jpg",
+    "index.html": "/index.html",
+    "main.a235ab9d.css.map": "/static/css/main.a235ab9d.css.map",
+    "main.5f8d8257.js.map": "/static/js/main.5f8d8257.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a235ab9d.css",
+    "static/js/main.5f8d8257.js"
+  ]
+}
